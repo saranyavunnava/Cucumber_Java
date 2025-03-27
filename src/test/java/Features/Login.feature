@@ -1,5 +1,6 @@
 #Author : Saranya M
 Feature: Login
+Background: Given user Launches Browser
 
   @RegressionTest
   Scenario: Login with valid credentials
